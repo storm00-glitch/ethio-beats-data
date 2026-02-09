@@ -1,0 +1,17 @@
+{
+  "songs": [
+    {
+      "id": "unique_id",
+      "songName": "Song Name",
+      "artist": "Artist Name",
+      "audioUrl": "https://server.com/audio.mp3",
+      "coverArtUrl": "https://server.com/cover.jpg",
+      "bpm": 120.0,
+      "scrollSpeed": 5.0,
+      "spawnTimes": [1.0, 2.0, 3.0],
+      "spawnLanes": ["0", "1", "2"],
+      "releaseDate": "2024-01-15",
+      "fileSizeBytes": 5242880
+    }
+  ]
+}
