@@ -4,9 +4,9 @@
       "id": "eth_tizita_001",
       "songName": "Tizita",
       "artist": "Mahmoud Ahmed",
-      "audioUrl": "",
-      "coverArtUrl": "",
-      "backgroundUrl": "",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "coverArtUrl": "https://via.placeholder.com/512/FF0000/FFFFFF?text=Cover",
+      "backgroundUrl": "https://via.placeholder.com/1920x1080/0000FF/FFFFFF?text=Background",
       "bpm": 95.0,
       "scrollSpeed": 4.5,
       "spawnTimes": [
