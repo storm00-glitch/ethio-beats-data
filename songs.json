@@ -1,17 +1,196 @@
 {
   "songs": [
     {
-      "id": "unique_id",
-      "songName": "Song Name",
-      "artist": "Artist Name",
-      "audioUrl": "https://server.com/audio.mp3",
-      "coverArtUrl": "https://server.com/cover.jpg",
-      "bpm": 120.0,
-      "scrollSpeed": 5.0,
-      "spawnTimes": [1.0, 2.0, 3.0],
-      "spawnLanes": ["0", "1", "2"],
+      "id": "eth_tizita_001",
+      "songName": "Tizita",
+      "artist": "Mahmoud Ahmed",
+      "audioUrl": "",
+      "coverArtUrl": "",
+      "backgroundUrl": "",
+      "bpm": 95.0,
+      "scrollSpeed": 4.5,
+      "spawnTimes": [
+        1.0, 1.632, 2.264, 2.896, 3.528, 4.16, 4.792, 5.424,
+        6.056, 6.688, 7.32, 7.952, 8.584, 9.216, 9.848, 10.48,
+        11.112, 11.744, 12.376, 13.008, 13.64, 14.272, 14.904,
+        15.536, 16.168, 16.8, 17.432, 18.064, 18.696, 19.328
+      ],
+      "spawnLanes": [
+        "0", "1", "2", "0,2", "1", "0", "2", "1",
+        "0,1", "2", "0", "1,2", "0", "2", "1", "0,1,2",
+        "0", "1", "2", "0,2", "1", "0", "2", "1",
+        "0,1", "2", "0", "1,2", "0", "2"
+      ],
       "releaseDate": "2024-01-15",
-      "fileSizeBytes": 5242880
+      "fileSizeBytes": 4200000,
+      "albumName": "Ethiopian Classics Vol.1",
+      "difficulty": "easy",
+      "targetScore": 5000,
+      "hardBeats": [
+        false, false, false, true, false, false, false, false,
+        false, true, false, false, false, false, true, true,
+        false, false, false, true, false, false, false, false,
+        false, true, false, false, false, false
+      ],
+      "unlockedByDefault": true,
+      "requiredScoreToUnlock": 0,
+      "previousSongRequiredId": ""
+    },
+    {
+      "id": "eth_ambassel_002",
+      "songName": "Ambassel",
+      "artist": "Aster Aweke",
+      "audioUrl": "",
+      "coverArtUrl": "",
+      "backgroundUrl": "",
+      "bpm": 110.0,
+      "scrollSpeed": 5.0,
+      "spawnTimes": [
+        0.8, 1.345, 1.89, 2.435, 2.98, 3.525, 4.07, 4.615,
+        5.16, 5.705, 6.25, 6.795, 7.34, 7.885, 8.43, 8.975,
+        9.52, 10.065, 10.61, 11.155, 11.7, 12.245, 12.79, 13.335,
+        13.88, 14.425, 14.97, 15.515, 16.06, 16.605, 17.15, 17.695,
+        18.24, 18.785, 19.33, 19.875
+      ],
+      "spawnLanes": [
+        "0", "1", "2", "0", "1", "2", "0,1", "2",
+        "0", "1,2", "0", "1", "2", "0,2", "1", "0",
+        "2", "1", "0,1", "2", "0", "1,2", "0", "2",
+        "1", "0", "2", "0,1,2", "1", "0", "2", "1",
+        "0,2", "1", "0", "2"
+      ],
+      "releaseDate": "2024-01-20",
+      "fileSizeBytes": 5800000,
+      "albumName": "Habesha Groove",
+      "difficulty": "medium",
+      "targetScore": 8000,
+      "hardBeats": [
+        false, false, false, false, true, false, false, true,
+        false, false, true, false, false, true, false, true,
+        false, false, true, false, false, true, false, false,
+        true, false, false, true, true, false, false, false,
+        true, false, false, true
+      ],
+      "unlockedByDefault": false,
+      "requiredScoreToUnlock": 3000,
+      "previousSongRequiredId": "eth_tizita_001"
+    },
+    {
+      "id": "eth_yekermo_003",
+      "songName": "Yekermo Sew",
+      "artist": "Mulatu Astatke",
+      "audioUrl": "",
+      "coverArtUrl": "",
+      "backgroundUrl": "",
+      "bpm": 118.0,
+      "scrollSpeed": 5.5,
+      "spawnTimes": [
+        0.6, 1.11, 1.62, 2.13, 2.64, 3.15, 3.66, 4.17,
+        4.68, 5.19, 5.7, 6.21, 6.72, 7.23, 7.74, 8.25,
+        8.76, 9.27, 9.78, 10.29, 10.8, 11.31, 11.82, 12.33,
+        12.84, 13.35, 13.86, 14.37, 14.88, 15.39, 15.9, 16.41,
+        16.92, 17.43, 17.94, 18.45, 18.96, 19.47, 19.98, 20.49
+      ],
+      "spawnLanes": [
+        "1", "0", "2", "1", "0,2", "1", "0", "2",
+        "1", "0,1", "2", "0", "1,2", "2", "0", "1",
+        "0,2", "1", "2", "0", "1", "2", "0,1", "2",
+        "0", "1,2", "0", "2", "1", "0,1,2", "1", "0",
+        "2", "1", "0,2", "1", "2", "0", "1", "2"
+      ],
+      "releaseDate": "2024-02-01",
+      "fileSizeBytes": 6500000,
+      "albumName": "Ethio Jazz Essentials",
+      "difficulty": "hard",
+      "targetScore": 12000,
+      "hardBeats": [
+        false, false, true, false, false, true, false, true,
+        false, true, false, false, true, false, true, false,
+        true, false, false, true, false, true, true, false,
+        true, false, true, false, true, true, false, false,
+        true, false, true, false, true, false, true, true
+      ],
+      "unlockedByDefault": false,
+      "requiredScoreToUnlock": 6000,
+      "previousSongRequiredId": "eth_ambassel_002"
+    },
+    {
+      "id": "eth_shellela_004",
+      "songName": "Shellela",
+      "artist": "Teddy Afro",
+      "audioUrl": "",
+      "coverArtUrl": "",
+      "backgroundUrl": "",
+      "bpm": 128.0,
+      "scrollSpeed": 6.0,
+      "spawnTimes": [
+        0.5, 0.97, 1.44, 1.91, 2.38, 2.85, 3.32, 3.79,
+        4.26, 4.73, 5.2, 5.67, 6.14, 6.61, 7.08, 7.55,
+        8.02, 8.49, 8.96, 9.43, 9.9, 10.37, 10.84, 11.31,
+        11.78, 12.25, 12.72, 13.19, 13.66, 14.13, 14.6, 15.07,
+        15.54, 16.01, 16.48, 16.95, 17.42, 17.89, 18.36, 18.83,
+        19.3, 19.77, 20.24, 20.71, 21.18, 21.65
+      ],
+      "spawnLanes": [
+        "0", "1", "2", "0", "1", "2", "0,1", "2",
+        "0", "1,2", "0", "1", "2", "0,2", "1", "0",
+        "2", "1", "0,1", "2", "0,1,2", "1", "0", "2",
+        "1", "0,2", "1", "2", "0", "1", "2", "0,1",
+        "2", "0", "1,2", "0", "2", "1", "0,1", "2",
+        "0", "2", "1", "0,1,2", "2", "1"
+      ],
+      "releaseDate": "2024-02-10",
+      "fileSizeBytes": 7200000,
+      "albumName": "Modern Ethiopian Beats",
+      "difficulty": "expert",
+      "targetScore": 18000,
+      "hardBeats": [
+        false, true, false, true, false, true, true, false,
+        true, false, true, false, true, true, false, true,
+        false, true, true, false, true, true, false, true,
+        false, true, true, false, true, false, true, true,
+        false, true, true, false, true, false, true, true,
+        false, true, false, true, true, true
+      ],
+      "unlockedByDefault": false,
+      "requiredScoreToUnlock": 10000,
+      "previousSongRequiredId": "eth_yekermo_003"
+    },
+    {
+      "id": "eth_guragigna_005",
+      "songName": "Guragigna",
+      "artist": "Gigi",
+      "audioUrl": "",
+      "coverArtUrl": "",
+      "backgroundUrl": "",
+      "bpm": 102.0,
+      "scrollSpeed": 4.8,
+      "spawnTimes": [
+        0.9, 1.49, 2.08, 2.67, 3.26, 3.85, 4.44, 5.03,
+        5.62, 6.21, 6.8, 7.39, 7.98, 8.57, 9.16, 9.75,
+        10.34, 10.93, 11.52, 12.11, 12.7, 13.29, 13.88, 14.47,
+        15.06, 15.65, 16.24, 16.83, 17.42, 18.01
+      ],
+      "spawnLanes": [
+        "1", "0", "2", "1", "0", "2", "1", "0,2",
+        "1", "0", "2", "1,2", "0", "1", "2", "0,1",
+        "2", "0", "1", "2", "0,2", "1", "0", "2",
+        "1", "0,1,2", "0", "2", "1", "0"
+      ],
+      "releaseDate": "2024-02-15",
+      "fileSizeBytes": 5300000,
+      "albumName": "Ethiopian Soul",
+      "difficulty": "medium",
+      "targetScore": 9000,
+      "hardBeats": [
+        false, false, false, true, false, false, true, false,
+        false, true, false, false, true, false, true, false,
+        false, true, false, false, true, false, true, false,
+        false, true, true, false, false, true
+      ],
+      "unlockedByDefault": false,
+      "requiredScoreToUnlock": 5000,
+      "previousSongRequiredId": "eth_ambassel_002"
     }
   ]
 }
