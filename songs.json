@@ -2,13 +2,13 @@
   "songs": [
     {
       "id": "eth_tizita_001",
-      "songName": "Tizita",
-      "artist": "Mahmoud Ahmed",
-      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-      "coverArtUrl": "https://via.placeholder.com/512/FF0000/FFFFFF?text=Cover",
-      "backgroundUrl": "https://via.placeholder.com/1920x1080/0000FF/FFFFFF?text=Background",
+      "songName": "Kesua_Gara",
+      "artist": "Henok Abebe",
+      "audioUrl": "https://github.com/storm00-glitch/audio/raw/refs/heads/main/Kesua-Gara.Henok.mp3",
+      "coverArtUrl": "https://github.com/storm00-glitch/Image/blob/main/Henok%20abebe.png",
+      "backgroundUrl": "",
       "bpm": 95.0,
-      "scrollSpeed": 4.5,
+      "scrollSpeed": 7,
       "spawnTimes": [
         1.0, 1.632, 2.264, 2.896, 3.528, 4.16, 4.792, 5.424,
         6.056, 6.688, 7.32, 7.952, 8.584, 9.216, 9.848, 10.48,
@@ -22,13 +22,13 @@
         "0,1", "2", "0", "1,2", "0", "2"
       ],
       "releaseDate": "2024-01-15",
-      "fileSizeBytes": 4200000,
-      "albumName": "Ethiopian Classics Vol.1",
+      "fileSizeBytes": 1752000,
+      "albumName": "",
       "difficulty": "easy",
       "targetScore": 10,
       "hardBeats": [
-        false, false, false, true, false, false, false, false,
-        false, true, false, false, false, false, true, true,
+        false, false, false, false, false, false, false, false,
+        false, true, false, false, false, false, false, true,
         false, false, false, true, false, false, false, false,
         false, true, false, false, false, false
       ],
