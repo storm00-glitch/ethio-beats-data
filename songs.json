@@ -76,14 +76,14 @@
       "previousSongRequiredId": "eth_Kesua_Gara_001"
     },
     {
-      "id": "eth_yekermo_003",
-      "songName": "Yekermo Sew",
-      "artist": "Mulatu Astatke",
+      "id": "eth_Bayne_Metash_Woye_003",
+      "songName": "Bayne Metash Woye",
+      "artist": "Tewodros Tadese",
       "audioUrl": "",
-      "coverArtUrl": "",
+      "coverArtUrl": "https://raw.githubusercontent.com/storm00-glitch/Image/refs/heads/main/Theodros%20Tadesse.png",
       "backgroundUrl": "",
       "bpm": 118.0,
-      "scrollSpeed": 5.5,
+      "scrollSpeed": 8,
       "spawnTimes": [
         0.6, 1.11, 1.62, 2.13, 2.64, 3.15, 3.66, 4.17,
         4.68, 5.19, 5.7, 6.21, 6.72, 7.23, 7.74, 8.25,
@@ -98,7 +98,7 @@
         "0", "1,2", "0", "2", "1", "0,1,2", "1", "0",
         "2", "1", "0,2", "1", "2", "0", "1", "2"
       ],
-      "releaseDate": "2024-02-01",
+      "releaseDate": "2026-02-15",
       "fileSizeBytes": 6500000,
       "albumName": "Ethio Jazz Essentials",
       "difficulty": "hard",
@@ -122,7 +122,7 @@
       "coverArtUrl": "",
       "backgroundUrl": "",
       "bpm": 128.0,
-      "scrollSpeed": 6.0,
+      "scrollSpeed": 8.0,
       "spawnTimes": [
         0.5, 0.97, 1.44, 1.91, 2.38, 2.85, 3.32, 3.79,
         4.26, 4.73, 5.2, 5.67, 6.14, 6.61, 7.08, 7.55,
@@ -154,7 +154,7 @@
       ],
       "unlockedByDefault": false,
       "requiredScoreToUnlock": 100,
-      "previousSongRequiredId": "eth_yekermo_003"
+      "previousSongRequiredId": "eth_Bayne_Metash_Woye_003"
     },
     {
       "id": "eth_guragigna_005",
