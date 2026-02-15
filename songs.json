@@ -1,7 +1,7 @@
 {
   "songs": [
     {
-      "id": "eth_tizita_001",
+      "id": "eth_Kesua_Gara_001",
       "songName": "Kesua_Gara",
       "artist": "Henok Abebe",
       "audioUrl": "https://github.com/storm00-glitch/audio/raw/refs/heads/main/Kesua-Gara.Henok.mp3",
@@ -21,30 +21,30 @@
         "0", "1", "2", "0,2", "1", "0", "2", "1",
         "0,1", "2", "0", "1,2", "0", "2"
       ],
-      "releaseDate": "2024-01-15",
+      "releaseDate": "2026-02-14",
       "fileSizeBytes": 1752000,
       "albumName": "",
       "difficulty": "easy",
       "targetScore": 10,
       "hardBeats": [
         false, false, false, false, false, false, false, false,
-        false, true, false, false, false, false, false, true,
-        false, false, false, true, false, false, false, false,
-        false, true, false, false, false, false
+        false, false, false, false, false, false, false, true,
+        false, false, false, false, false, false, false, false,
+        false, false, false, false, false, false
       ],
       "unlockedByDefault": true,
       "requiredScoreToUnlock": 0,
       "previousSongRequiredId": ""
     },
     {
-      "id": "eth_ambassel_002",
-      "songName": "Ambassel",
-      "artist": "Aster Aweke",
-      "audioUrl": "",
-      "coverArtUrl": "",
+      "id": "eth_Salaysh_002",
+      "songName": "Salaysh",
+      "artist": "Bezuayew Demese",
+      "audioUrl": "https://github.com/storm00-glitch/audio/raw/refs/heads/main/Salaysh.Bezuayew_Demese.mp3",
+      "coverArtUrl": "https://github.com/storm00-glitch/Image/blob/main/Bezuayehu%20Demissie.png",
       "backgroundUrl": "",
       "bpm": 110.0,
-      "scrollSpeed": 5.0,
+      "scrollSpeed": 8,
       "spawnTimes": [
         0.8, 1.345, 1.89, 2.435, 2.98, 3.525, 4.07, 4.615,
         5.16, 5.705, 6.25, 6.795, 7.34, 7.885, 8.43, 8.975,
@@ -59,11 +59,11 @@
         "1", "0", "2", "0,1,2", "1", "0", "2", "1",
         "0,2", "1", "0", "2"
       ],
-      "releaseDate": "2024-01-20",
-      "fileSizeBytes": 5800000,
-      "albumName": "Habesha Groove",
+      "releaseDate": "2026-02-15",
+      "fileSizeBytes": 2800000,
+      "albumName": "",
       "difficulty": "medium",
-      "targetScore": 8000,
+      "targetScore": 500,
       "hardBeats": [
         false, false, false, false, true, false, false, true,
         false, false, true, false, false, true, false, true,
@@ -73,7 +73,7 @@
       ],
       "unlockedByDefault": false,
       "requiredScoreToUnlock": 30,
-      "previousSongRequiredId": "eth_tizita_001"
+      "previousSongRequiredId": "eth_Kesua_Gara_001"
     },
     {
       "id": "eth_yekermo_003",
@@ -112,7 +112,7 @@
       ],
       "unlockedByDefault": false,
       "requiredScoreToUnlock": 60,
-      "previousSongRequiredId": "eth_ambassel_002"
+      "previousSongRequiredId": "eth_Salaysh_002"
     },
     {
       "id": "eth_shellela_004",
