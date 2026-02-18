@@ -115,11 +115,11 @@
       "previousSongRequiredId": "eth_Salaysh_002"
     },
     {
-      "id": "eth_shellela_004",
-      "songName": "Shellela",
-      "artist": "Teddy Afro",
-      "audioUrl": "",
-      "coverArtUrl": "",
+      "id": "eth_Konjo_004",
+      "songName": "Konjo",
+      "artist": "Hailu Amerga",
+      "audioUrl": "https://github.com/storm00-glitch/audio/raw/refs/heads/main/Konjo.Hailu-Amerga.mp3",
+      "coverArtUrl": "https://raw.githubusercontent.com/storm00-glitch/Image/refs/heads/main/Hailu%20Amerga.png",
       "backgroundUrl": "",
       "bpm": 128.0,
       "scrollSpeed": 8.0,
@@ -139,18 +139,18 @@
         "2", "0", "1,2", "0", "2", "1", "0,1", "2",
         "0", "2", "1", "0,1,2", "2", "1"
       ],
-      "releaseDate": "2024-02-10",
-      "fileSizeBytes": 7200000,
-      "albumName": "Modern Ethiopian Beats",
+      "releaseDate": "2026-02-18",
+      "fileSizeBytes": 2300000,
+      "albumName": "",
       "difficulty": "expert",
       "targetScore": 180,
       "hardBeats": [
-        false, true, false, true, false, true, true, false,
-        true, false, true, false, true, true, false, true,
-        false, true, true, false, true, true, false, true,
-        false, true, true, false, true, false, true, true,
-        false, true, true, false, true, false, true, true,
-        false, true, false, true, true, true
+        false, false, false, false, false, false, false, false,
+        true, false,false, false,false, false, false, false,
+        false, false, false, false, false, true, false, false,
+        false, true, true, false, false, false, false, true,
+        false,false, false, false, true, false, false, false,
+        false, false, false, false, false, true
       ],
       "unlockedByDefault": false,
       "requiredScoreToUnlock": 100,
@@ -177,9 +177,9 @@
         "2", "0", "1", "2", "0,2", "1", "0", "2",
         "1", "0,1,2", "0", "2", "1", "0"
       ],
-      "releaseDate": "2024-02-15",
-      "fileSizeBytes": 5300000,
-      "albumName": "Ethiopian Soul",
+      "releaseDate": "2024-02-18",
+      "fileSizeBytes": 2300000,
+      "albumName": "",
       "difficulty": "medium",
       "targetScore": 100,
       "hardBeats": [
@@ -190,7 +190,7 @@
       ],
       "unlockedByDefault": false,
       "requiredScoreToUnlock": 50,
-      "previousSongRequiredId": "eth_ambassel_002"
+      "previousSongRequiredId": "eth_Konjo_004"
     }
   ]
 }
