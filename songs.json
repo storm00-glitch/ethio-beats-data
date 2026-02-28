@@ -157,11 +157,11 @@
       "previousSongRequiredId": "eth_Bayne_Metash_Woye_003"
     },
     {
-      "id": "eth_guragigna_005",
-      "songName": "Guragigna",
-      "artist": "Gigi",
+      "id": "eth_sew mekrosh_005",
+      "songName": "Sew_Mekrosh",
+      "artist": "Tamirat Desta",
       "audioUrl": "",
-      "coverArtUrl": "",
+      "coverArtUrl": "https://raw.githubusercontent.com/storm00-glitch/Image/refs/heads/main/Tamirat%20Desta.png",
       "backgroundUrl": "",
       "bpm": 102.0,
       "scrollSpeed": 4.8,
