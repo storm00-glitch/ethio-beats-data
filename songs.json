@@ -160,7 +160,7 @@
       "id": "eth_sew mekrosh_005",
       "songName": "Sew_Mekrosh",
       "artist": "Tamirat Desta",
-      "audioUrl": "",
+      "audioUrl": "https://github.com/storm00-glitch/audio/raw/refs/heads/main/Sew mekrosh_Tamirat_Desta.mp3",
       "coverArtUrl": "https://raw.githubusercontent.com/storm00-glitch/Image/refs/heads/main/Tamirat%20Desta.png",
       "backgroundUrl": "",
       "bpm": 102.0,
@@ -177,7 +177,7 @@
         "2", "0", "1", "2", "0,2", "1", "0", "2",
         "1", "0,1,2", "0", "2", "1", "0"
       ],
-      "releaseDate": "2024-02-18",
+      "releaseDate": "2026-02-28",
       "fileSizeBytes": 2300000,
       "albumName": "",
       "difficulty": "medium",
@@ -188,7 +188,7 @@
         false, false, false, false, true, false, false, false,
         false, false, false, false, false, true
       ],
-      "unlockedByDefault": false,
+      "unlockedByDefault": true,
       "requiredScoreToUnlock": 50,
       "previousSongRequiredId": "eth_Konjo_004"
     }
