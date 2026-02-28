@@ -65,11 +65,11 @@
       "difficulty": "medium",
       "targetScore": 500,
       "hardBeats": [
-        false, false, false, false, true, false, false, true,
-        false, false, true, false, false, true, false, true,
-        false, false, true, false, false, true, false, false,
-        true, false, false, true, true, false, false, false,
-        true, false, false, true
+        false, false, false, false, false, false, false, false,
+        false, false, false, false, false, false, false, false,
+        false, false, false, false, false, false, false, false,
+        false, false, false, false, false, false, false, false,
+        false, false, false, true
       ],
       "unlockedByDefault": false,
       "requiredScoreToUnlock": 30,
@@ -104,11 +104,11 @@
       "difficulty": "hard",
       "targetScore": 20,
       "hardBeats": [
-        false, false, true, false, false, true, false, true,
-        false, true, false, false, true, false, true, false,
-        true, false, false, true, false, true, true, false,
-        true, false, true, false, true, true, false, false,
-        true, false, true, false, true, false, true, true
+        false, false, true, false, false, false, false, false,
+        false, false, false, false, false, false, true, false,
+        false, false, false, false, false, false, false, false,
+        false, false, true, false, false, false, false, false,
+        false, false, false, false, false, false, false, true
       ],
       "unlockedByDefault": false,
       "requiredScoreToUnlock": 60,
@@ -147,9 +147,9 @@
       "hardBeats": [
         false, false, false, false, false, false, false, false,
         true, false,false, false,false, false, false, false,
-        false, false, false, false, false, true, false, false,
-        false, true, true, false, false, false, false, true,
-        false,false, false, false, true, false, false, false,
+        false, false, false, false, false, false, false, false,
+        false, false, false, false, false, false, false, false,
+        false,false, false, false, false, false, false, false,
         false, false, false, false, false, true
       ],
       "unlockedByDefault": false,
@@ -183,10 +183,10 @@
       "difficulty": "medium",
       "targetScore": 100,
       "hardBeats": [
-        false, false, false, true, false, false, true, false,
-        false, true, false, false, true, false, true, false,
-        false, true, false, false, true, false, true, false,
-        false, true, true, false, false, true
+        false, false, false, false, false, false, false, false,
+        false, false, false, false, true, false, false, false,
+        false, false, false, false, true, false, false, false,
+        false, false, false, false, false, true
       ],
       "unlockedByDefault": false,
       "requiredScoreToUnlock": 50,
